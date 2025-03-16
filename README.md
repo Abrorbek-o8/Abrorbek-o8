@@ -5,14 +5,14 @@
 💻 I know JavaScript & Angular & PHP & TypeScript  & React  \
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 17-years old developer from Uzbekistan/Khorezm \
-📫 Reach me on  
+#### 📫 Reach me on  
 [![Abror Masharipov](https://www.instagram.com/image.png)](https://www.instagram.com/abror_oo8o/)
  <br> 
 <!-- contact me
 🪐<a href="http://ozodovdev.uz" target="/blank"> Portfolio </a> -->
 
 
-My coding time -
+#### My coding time -
 [![wakatime](https://wakatime.com/badge/user/23cc199c-1815-4f98-99f7-ecaf346e0b1e.svg)](https://wakatime.com/@23cc199c-1815-4f98-99f7-ecaf346e0b1e)
 
 
