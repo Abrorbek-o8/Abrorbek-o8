@@ -6,7 +6,8 @@
 👨‍💻 I’m looking to collaborate on projects \
 💬 I'm 17-years old developer from Uzbekistan/Khorezm \
 📫 Reach me on  
-[![Abror Masharipov](https://www.instagram.com/abror_oo8o/profile_pic)](https://instagram.com/abror_oo8o/)
+
+<!-- [![Abror Masharipov](https://www.instagram.com/abror_oo8o/profile_pic)](https://instagram.com/abror_oo8o/) -->
 
 
  <br> 
