@@ -18,10 +18,9 @@ My coding time -
 [![wakatime](https://wakatime.com/badge/user/23cc199c-1815-4f98-99f7-ecaf346e0b1e.svg)](https://wakatime.com/@23cc199c-1815-4f98-99f7-ecaf346e0b1e)
 
 
-<!--![snake gif](https://raw.githubusercontent.com/Abrorbek-o8/Abrorbek-o8/output/github-contribution-grid-snake.svg) 
+<!--![snake gif](https://raw.githubusercontent.com/Abrorbek-o8/Abrorbek-o8/output/github-contribution-grid-snake.svg) -->
 
-<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />-->
-![github-snake](https://raw.githubusercontent.com/Abrorbek-o8/Abrorbek-o8/output/github-snake.svg)
+<img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
