@@ -26,7 +26,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abrorbek-o8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # Coding time : 
-<a href="https://wakatime.com/@_1b49455c-eecd-4425-bd6b-00f05cd08ce6"><img src="https://wakatime.com/badge/user/_1b49455c-eecd-4425-bd6b-00f05cd08ce6.svg" alt="Total time coded since Jul 16 2022" /></a>
+<a href="https://wakatime.com/@_1b49455c-eecd-4425-bd6b-00f05cd08ce6"><img src="https://wakatime.com/badge/user/_1b49455c-eecd-4425-bd6b-00f05cd08ce6.svg" alt="Total time coded since Joined Mar 7 2025" /></a>
 
 ⚡ **“Kelajak sari!”** - Striving toward the future.
 <picture>
